@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 
-- Interested in incorporating ML into Agentic Workflows
-- Tidbyt/LED Pannel Applications
-- Data Science Projects
+- Agentic AI Web Devlopment
+- LED Pannel Applications
+- ML Projects
+  
